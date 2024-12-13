@@ -1,0 +1,20 @@
+p
+{
+    color:red;
+    font-size:larger;
+    font-weight: 600;
+    
+}
+body
+{
+    background-color: aqua;
+    font-family: "Funnel Display";
+}
+img
+{
+    width: 300px;
+    border: 10px;
+    border-color: blue;
+    border-style: dashed;
+    
+}
